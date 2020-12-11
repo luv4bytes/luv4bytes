@@ -12,7 +12,8 @@ My name is Lukas!
 
 ![](https://github-readme-stats.vercel.app/api?username=luv4bytes&show_icons=true&theme=dark)![](https://github-readme-stats.vercel.app/api/top-langs/?username=luv4bytes&theme=dark&layout=compact)
 
-## Techs
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2b%2b&logoColor=white&color=2bbc8a)
+## Techs I use
+![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=791bde)
+![](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white&color=791bde)
+![](https://img.shields.io/badge/C++-informational?style=flat&logo=c%2b%2b&logoColor=white&color=791bde)
+![](https://img.shields.io/badge/Qt-informational?style=flat&logo=qt&logoColor=white&color=791bde)
