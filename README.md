@@ -8,10 +8,9 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=luv4bytes&repo=cdav&theme=dark)](https://github.com/luv4bytes/cdav)
 
-### Languages/Sprachen/языки/Idiomas...
-...see? Languages... okay...
+### My activity on GitHub
 
-![](https://github-readme-stats.vercel.app/api?username=luv4bytes&show_icons=true&theme=dark)![](https://github-readme-stats.vercel.app/api/top-langs/?username=luv4bytes&theme=dark&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=luv4bytes&show_icons=true&theme=dark)
 
 ### Techs I love to use
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=791bde)
