@@ -16,6 +16,7 @@
 
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=791bde)
 ![](https://img.shields.io/badge/Xfce-informational?style=flat&logo=xfce&logoColor=white&color=791bde)
+![](https://img.shields.io/badge/Windows-informational?style=flat&logo=windows&logoColor=white&color=791bde)
 
 #### Languages
 
