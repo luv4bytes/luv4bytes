@@ -33,8 +33,8 @@
 
 ![](https://img.shields.io/badge/Emacs-informational?style=flat&logo=gnu-emacs&logoColor=white&color=791bde)
 ![](https://img.shields.io/badge/Vim-informational?style=flat&logo=vim&logoColor=white&color=791bde)
-![](https://img.shields.io/badge/Visual%20Studio-informational?style=flat&logo=visual+studio&logoColor=white&color=791bde)
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-informational?style=flat&logo=visual+studio+code&logoColor=white&color=791bde)
+![](https://img.shields.io/badge/Visual%20Studio-informational?style=flat&logo=visual+studio&logoColor=white&color=791bde)
 
 #### Version control
 
