@@ -6,11 +6,11 @@
 
 :desktop_computer: I’m currently working on cdav which is a CLI WebDAV client. At the time being it's focused to be used on Linux.
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=luv4bytes&repo=cdav&theme=dark)](https://github.com/luv4bytes/cdav)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=luv4bytes&repo=cdav&theme=nightowl)](https://github.com/luv4bytes/cdav)
 
 ### My activity on GitHub
 
-![](https://github-readme-stats.vercel.app/api?username=luv4bytes&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=luv4bytes&show_icons=true&theme=nightowl)
 
 #### OS and Desktop
 
