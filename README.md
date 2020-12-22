@@ -4,7 +4,8 @@
 
 ### My name is Lukas!
 
-:desktop_computer: I’m currently working on cdav which is a CLI WebDAV client. At the time being it's focused to be used on Linux.
+:desktop_computer: I’m currently working on <a href="https://github.com/luv4bytes/cdav">cdav</a> which is a CLI WebDAV client.
+And on <a href="https://github.com/luv4bytes/cdav-gtk">cdav-gtk</a> which provides a graphical interface for <a href="https://github.com/luv4bytes/cdav">cdav</a>.
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=luv4bytes&repo=cdav&theme=nightowl)](https://github.com/luv4bytes/cdav)
 
