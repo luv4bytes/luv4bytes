@@ -25,7 +25,6 @@ And on <a href="https://github.com/luv4bytes/cdav-gtk">cdav-gtk</a> which provid
 ![](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white&color=791bde)
 ![](https://img.shields.io/badge/C++-informational?style=flat&logo=c%2b%2b&logoColor=white&color=791bde)
 ![](https://img.shields.io/badge/C%23-informational?style=flat&logo=c+sharp&logoColor=white&color=791bde)
-![](https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=791bde)
 
 #### Frameworks
 
@@ -34,9 +33,9 @@ And on <a href="https://github.com/luv4bytes/cdav-gtk">cdav-gtk</a> which provid
 
 #### Editors
 
+![](https://img.shields.io/badge/Visual%20Studio%20Code-informational?style=flat&logo=visual+studio+code&logoColor=white&color=791bde)
 ![](https://img.shields.io/badge/Emacs-informational?style=flat&logo=gnu-emacs&logoColor=white&color=791bde)
 ![](https://img.shields.io/badge/Vim-informational?style=flat&logo=vim&logoColor=white&color=791bde)
-![](https://img.shields.io/badge/Visual%20Studio%20Code-informational?style=flat&logo=visual+studio+code&logoColor=white&color=791bde)
 ![](https://img.shields.io/badge/Visual%20Studio-informational?style=flat&logo=visual+studio&logoColor=white&color=791bde)
 
 #### Version control
