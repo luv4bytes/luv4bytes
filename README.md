@@ -7,7 +7,8 @@
 :desktop_computer: I’m currently working on <a href="https://github.com/luv4bytes/cdav">cdav</a> which is a CLI WebDAV client.
 And on <a href="https://github.com/luv4bytes/cdav-gtk">cdav-gtk</a> which provides a graphical interface for <a href="https://github.com/luv4bytes/cdav">cdav</a>.
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=luv4bytes&repo=cdav&theme=nightowl)](https://github.com/luv4bytes/cdav)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=luv4bytes&repo=cdav&theme=nightowl)](https://github.com/luv4bytes/cdav) 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=luv4bytes&repo=cdav-gtk&theme=nightowl)](https://github.com/luv4bytes/cdav-gtk)
 
 ### My activity on GitHub
 
