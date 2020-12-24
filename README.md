@@ -24,6 +24,7 @@ And on <a href="https://github.com/luv4bytes/cdav-gtk">cdav-gtk</a> which provid
 
 ![](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white&color=791bde)
 ![](https://img.shields.io/badge/C++-informational?style=flat&logo=c%2b%2b&logoColor=white&color=791bde)
+![](https://img.shields.io/badge/python-informational?style=flat&logo=python&logoColor=white&color=791bde)
 ![](https://img.shields.io/badge/C%23-informational?style=flat&logo=c+sharp&logoColor=white&color=791bde)
 
 #### Frameworks
