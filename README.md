@@ -6,7 +6,6 @@
 
 Projects I'm currently working on:
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=luv4bytes&repo=easy-c&theme=nightowl)](https://github.com/luv4bytes/easy-c)   
 [![](https://github-readme-stats.vercel.app/api/pin/?username=luv4bytes&repo=cdav&theme=nightowl)](https://github.com/luv4bytes/cdav)   
 [![](https://github-readme-stats.vercel.app/api/pin/?username=luv4bytes&repo=cdav-gtk&theme=nightowl)](https://github.com/luv4bytes/cdav-gtk)
 
