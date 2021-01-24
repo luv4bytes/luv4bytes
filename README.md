@@ -6,11 +6,6 @@
 
 <a href="https://luv4bytes.github.io/">My little personal GitHub blog</a>.
 
-Projects I'm currently working on:
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=luv4bytes&repo=cdav&theme=nightowl)](https://github.com/luv4bytes/cdav)   
-[![](https://github-readme-stats.vercel.app/api/pin/?username=luv4bytes&repo=cdav-gtk&theme=nightowl)](https://github.com/luv4bytes/cdav-gtk)
-
 ### My activity on GitHub
 
 ![](https://github-readme-stats.vercel.app/api?username=luv4bytes&show_icons=true&theme=nightowl)
